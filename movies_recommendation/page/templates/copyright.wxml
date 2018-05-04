@@ -1,0 +1,3 @@
+<template name="tempCopyright">
+<view>  Copyright© 2018 SherwinX </view>
+</template>
